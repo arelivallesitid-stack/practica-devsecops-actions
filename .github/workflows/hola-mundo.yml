@@ -1,0 +1,13 @@
+name: Primer Workflow DevSecOps
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Imprimir mensaje de bienvenida
+        run: echo "HOLA MUNDO"
