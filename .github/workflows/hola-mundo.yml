@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprimir mensaje de bienvenida
-        run: echo "HOLA MUNDO DESDE VISUAL STUDIO NNNN "
+        run: echo "HOLA MUNDO DESDE VISUAL STUDIO kkjjnjdc "
 
 
