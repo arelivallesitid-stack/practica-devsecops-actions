@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprimir mensaje de bienvenida
-        run: echo "HOLA MUNDO"
+        run: echo "HOLA MUNDO DESDE VISUAL STUDIO CODE"
